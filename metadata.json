@@ -1,0 +1,10 @@
+{
+  "name": "DAHI CONSULTANTS - Professional Quantity Surveyors",
+  "description": "Leading Kenyan Quantity Surveying and Construction Cost Consultancy firm providing accuracy and reliability.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
